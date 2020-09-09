@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\bin\Release\Stok_Takip.exe.config
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\bin\Release\Stok_Takip.exe
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\bin\Release\Stok_Takip.pdb
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.csprojAssemblyReference.cache
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmKategori.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmMarka.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmMüşteriEkle.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmMüşteriListele.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmSatis.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmSatışListele.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmÜrünEkle.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.frmÜrünListeleme.resources
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.csproj.GenerateResource.cache
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.exe
+C:\Users\x\source\repos\Stok_Takip\Stok_Takip\obj\Release\Stok_Takip.pdb
